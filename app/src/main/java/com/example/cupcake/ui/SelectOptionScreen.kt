@@ -121,7 +121,6 @@ fun SelectOptionScreen(
             }
         }
     }
-
 }
 
 @Preview
